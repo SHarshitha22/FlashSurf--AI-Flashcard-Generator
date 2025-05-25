@@ -286,7 +286,7 @@ if not st.session_state.logged_in:
                     color:#007f68;
                     font-family: 'Roboto', sans-serif;
                 ">
-                    RETENTION BOX!
+                    FlashSurf
                 </h1>
                 <p style='
                     font-size: 20px;
